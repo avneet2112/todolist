@@ -3,8 +3,10 @@ import HomePage from "./component/HomePage";
 
 function App() {
   return (
-    <div className="App">
+    <div className="App">5
+    <>
       <HomePage />
+    </>
     </div>
   );
 }
